@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**escribiendocodigo/escribiendocodigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import { Coder } from "superheroes";
 
-Here are some ideas to get you started:
+var me = new Coder("M4nu", "Full Stack Developer");
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+me.languages = [
+  "C",
+  "C++",
+  "Rust",
+  "PHP",
+  "JavaScript",
+  "Java",
+  "Kotlin",
+  "Dart"
+];
+
+me.technologies = [
+  "Rocket",
+  "Yew",
+  "Phalcon",
+  "Node.js",
+  "React",
+  "Remix",
+  "Prisma",
+  "Flutter",
+  "Sass",
+  "Bootstrap"
+];
+```
+
+### 🔥 My Stats
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=escribiendocodigo&theme=dark&background=000000)

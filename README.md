@@ -3,7 +3,7 @@
 ```js
 import { Coder } from "superheroes";
 
-var me = new Coder("M4nu", "Full Stack Developer");
+var me = new Coder("M4nu", "Software Developer");
 
 me.languages = [
   "C",

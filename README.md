@@ -24,9 +24,7 @@ me.technologies = [
   "React",
   "Remix",
   "Prisma",
-  "Flutter",
-  "Sass",
-  "Bootstrap"
+  "Flutter"
 ];
 ```
 

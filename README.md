@@ -6,8 +6,7 @@ import { Coder } from "superheroes";
 var me = new Coder("M4nu", "Software Developer");
 
 me.languages = [
-  "C",
-  "C++",
+  "C/C++",
   "Rust",
   "PHP",
   "JavaScript",
@@ -20,10 +19,12 @@ me.technologies = [
   "Rocket",
   "Yew",
   "Phalcon",
-  "Node.js",
+  "Solid",
   "React",
+  "Astro",
   "Remix",
-  "Prisma",
+  "n8n",
+  "Node-RED",
   "Flutter"
 ];
 ```
